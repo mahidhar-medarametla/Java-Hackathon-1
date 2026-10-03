@@ -1,3 +1,12 @@
+//Write a Java program to calculate the total waste collected from two collection points using a method.
+
+//Create the following method:
+
+//calculateTotalWaste(double point1Waste, double point2Waste)
+//The method should return the total waste collected. Read the waste collected at the two collection points from the user, call the method, and display the total waste collected.
+
+
+
 import java.util.Scanner;
 
 public class WasteCollection {
