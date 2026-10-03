@@ -1,3 +1,14 @@
+//3a) Data Types:
+
+//Write a Java program to store and display the following details of a waste collection vehicle:
+
+//Vehicle number – integer
+//Waste collected in kilograms – decimal value
+//Number of collection points – integer
+//Vehicle status – character
+//Use appropriate Java data types for each value and display all the details.  
+
+
 public class WasteVehicleDetails {
     public static void main(String[] args) {
         
