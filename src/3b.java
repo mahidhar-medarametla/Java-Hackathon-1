@@ -1,3 +1,11 @@
+
+//Write a Java program to check the waste collection status based on the amount of waste collected. Read the waste collected in kilograms.
+
+//If the waste collected is 100 kg or more, display "Collection Target Achieved".
+//Otherwise, display "More Waste Collection Required".
+//Use an if-else statement.
+
+
 import java.util.Scanner;
 
 	public class WasteStatusChecker {
